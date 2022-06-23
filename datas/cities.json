@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "New Yorks",
+    "country_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Miami",
+    "country_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Ho Chi Minh",
+    "country_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Ha Noi",
+    "country_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Singapore",
+    "country_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Phnom Penh",
+    "country_id": 4
+  },
+  {
+    "id": 7,
+    "name": "Battambang",
+    "country_id": 4
+  },
+  {
+    "id": 8,
+    "name": "ShangHai",
+    "country_id": 5
+  },
+  {
+    "id": 9,
+    "name": "Beijing",
+    "country_id": 5
+  }
+]

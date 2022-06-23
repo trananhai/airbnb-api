@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "symbol": "$",
+    "alias": "USD"
+  },
+  {
+    "id": 2,
+    "symbol": "đ",
+    "alias": "VND"
+  },
+  {
+    "id": 3,
+    "symbol": "រៀល",
+    "alias": "Riel"
+  },
+  {
+    "id": 4,
+    "symbol": "$",
+    "alias": "SGD"
+  },
+  {
+    "id": 5,
+    "symbol": "¥",
+    "alias": "CNY"
+  }
+]

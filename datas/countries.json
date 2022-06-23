@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "short_name": "USA",
+    "currency_ids": [1]
+  },
+  {
+    "id": 2,
+    "name": "Viet Nam",
+    "short_name": "VN",
+    "currency_ids": [1, 2]
+  },
+  {
+    "id": 3,
+    "name": "Singapore",
+    "short_name": "SGN",
+    "currency_ids": [1, 3]
+  },
+  {
+    "id": 4,
+    "name": "Cambodia",
+    "short_name": "CAM",
+    "currency_ids": [1, 4]
+  },
+  {
+    "id": 5,
+    "name": "China",
+    "short_name": "CN",
+    "currency_ids": [5]
+  }
+]
